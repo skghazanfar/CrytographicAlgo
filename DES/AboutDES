@@ -1,0 +1,4 @@
+DES is a block cipher; it encrypts data in 64-bit blocks. A 64-bit block of plaintext goes in one end of 
+the algorithm and a 64-bit block of ciphertext comes out the other end. DES is a symmetric algorithm: 
+The same algorithm and key are used for both encryption and decryption (except for minor 
+differences in the key schedule). 
